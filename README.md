@@ -3,7 +3,7 @@ Cuore SoundShack vAndroid
 
 ###The New Way to Listen to Music
 
-SoundShack Leverages the Power of Broadcom's Latest Wicced chip to Stream HD Audio to Wifi enabled android devices. This Android application allows users to synchronously stream music with no lag. User can also asynchronously manage speaker groupings, giving users the power to listen to the football game on their living room speakers and rock out to their patio speakers at the sametime.
+SoundShack Leverages the Power of Broadcom's Latest Wiced chip to Stream HD Audio to Wifi enabled android devices. This Android application allows users to synchronously stream music with no lag. User can also asynchronously manage speaker groupings, giving users the power to listen to the football game on their living room speakers and rock out to their patio speakers at the sametime.
 
 License
 ===========
@@ -42,6 +42,6 @@ Architecture
 Platform Compatiblity
 ===========
 
-SoundShack is a Qt application which will run on Mac, PC and Linux desktop enviroments along with the Android, iOS and Ubuntu touch mobile platforms.
+SoundShack vAndroid is an Android application which will run on all Android based enviroments.
 
 ![alt text](http://cdn2.hubspot.net/hub/245892/file-360088931-png/Icons/android-logo-black.png "Android Logo")
